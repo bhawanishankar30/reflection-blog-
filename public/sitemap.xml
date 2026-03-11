@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/posts/my-first-post/</loc>
+    <loc>https://github.com/bhawanishankar30/reflection-blog-/posts/my-first-post/</loc>
     <lastmod>2026-03-11T13:37:37+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://github.com/bhawanishankar30/reflection-blog-/</loc>
     <lastmod>2026-03-11T13:37:37+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/posts/</loc>
+    <loc>https://github.com/bhawanishankar30/reflection-blog-/posts/</loc>
     <lastmod>2026-03-11T13:37:37+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://github.com/bhawanishankar30/reflection-blog-/categories/</loc>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://github.com/bhawanishankar30/reflection-blog-/tags/</loc>
   </url>
 </urlset>
