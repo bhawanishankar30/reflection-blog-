@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>https://bhawanishankar30.github.io/reflection-blog-/</link>
+    <link>http://localhost:1313/reflection-blog-/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Mar 2026 12:23:49 +0530</lastBuildDate>
-    <atom:link href="https://bhawanishankar30.github.io/reflection-blog-/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Mar 2026 16:41:14 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/reflection-blog-/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exploring New Ideas in Unit 2</title>
+      <link>http://localhost:1313/reflection-blog-/posts/unit-2-reflection/</link>
+      <pubDate>Wed, 18 Mar 2026 16:41:14 +0530</pubDate>
+      <guid>http://localhost:1313/reflection-blog-/posts/unit-2-reflection/</guid>
+      <description>&lt;p&gt;There were so many concepts and topics that I explored in unit 02. I personally feel that unit 2 is slightly difficult and more challenging as compared to unit 01. The number conversion and operations such as addition, subtraction were easy for me because I had learned it in the previous semester. I got a chance to learn about pixels and the RGB lights. How these three colors of light are used for any images.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>The Learning Journey in Unit 01</title>
-      <link>https://bhawanishankar30.github.io/reflection-blog-/posts/the-learning-journey-in-unit-01/</link>
+      <link>http://localhost:1313/reflection-blog-/posts/the-learning-journey-in-unit-01/</link>
       <pubDate>Wed, 18 Mar 2026 12:23:49 +0530</pubDate>
-      <guid>https://bhawanishankar30.github.io/reflection-blog-/posts/the-learning-journey-in-unit-01/</guid>
-      <description>&lt;p&gt;In unit one of the course &amp;ldquo;Becoming a Reflective Information Scientist&amp;rdquo; I learned about DIKW model where D refers to data , I-information, K-knowledge, W-wisdom. This topic was not new for me , I heard these words before and many times we use this concept in real life without knowing this. Before learning this concept I thought these words information and knowledge are the same but there is a small difference between them. Data is the most basic level, it can be raw facts or numbers, it is not enough to understand. When the data is well structured with explanation it becomes information. After understanding the information we add our experience to make it knowledge and so on we take decisions on the basis of this, called Wisdom. When I learned this model I search some real life examples that help me to understand it better. I found a example and apply this concept trying to figure out the DIKW. I am in SR now my class starts at 10:45 am it was already 10:30 , I calculate the time there is only15 minutes left then i thought if i avoid lift and use stairs i could be there on time .Here, 10:45 and 10:30 is Data and left 15 minute is Information,Knowledge is understanding use of stairs instead of lift will save my time and Wisdom is using stair to reach in time . So this DIKW concept not only helps but also increases our thinking process.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/reflection-blog-/posts/the-learning-journey-in-unit-01/</guid>
+      <description>&lt;p&gt;In unit one of the course &amp;ldquo;Becoming a Reflective Information Scientist&amp;rdquo; I learned about DIKW model where D refers to data , I-information, K-knowledge, W-wisdom. This topic was not new for me , I heard these words before and many times we use this concept in real life without knowing this. Before learning this concept I thought these words information and knowledge are the same but there is a small difference between them. Data is the most basic level, it can be raw facts or numbers, it is not enough to understand. When the data is well structured with explanation it becomes information. After understanding the information we add our experience to make it knowledge and so on we take decisions on the basis of this, called Wisdom. When I learned this model I search some real life examples that help me to understand it better. I found a example and apply this concept trying to figure out the DIKW. I am in SR now my class starts at 10:45 am it was already 10:30 , I calculate the time there is only15 minutes left then i thought if i avoid lift and use stairs i could be there on time .Here, 10:45 and 10:30 is Data and left 15 minute is Information, Knowledge is understanding use of stairs instead of lift will save my time and Wisdom is using stair to reach in time . So this DIKW concept not only helps but also increases our thinking process.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
