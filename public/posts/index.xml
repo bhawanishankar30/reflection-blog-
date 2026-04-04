@@ -6,8 +6,15 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Mar 2026 13:37:37 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 01:13:20 +0530</lastBuildDate>
     <atom:link href="https://github.com/bhawanishankar30/reflection-blog-/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learn From Failure</title>
+      <link>https://github.com/bhawanishankar30/reflection-blog-/posts/learn-from-failure/</link>
+      <pubDate>Sun, 05 Apr 2026 01:13:20 +0530</pubDate>
+      <guid>https://github.com/bhawanishankar30/reflection-blog-/posts/learn-from-failure/</guid>
+      <description>&lt;p&gt;This unit is very informative for me because it talks about failure. How they fail and work on their cause of failure. In this unit I learned that not every failure is the same , there are three types of failure. The 1st is Basic failure where we know the method  but we do not care  and our negligence also plays a bigger role in it. The 2nd is complex failure, here the situation keeps changing and more than one problem causes the failure, 3rd one is Intelligent failure where we try something new and an experiment fails. Great achievements do not come without failures. For example, heart surgeons also suffer from failures. That&amp;rsquo;s why now it is possible to have successful surgery and modern medicine.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>My First Post</title>
       <link>https://github.com/bhawanishankar30/reflection-blog-/posts/my-first-post/</link>
