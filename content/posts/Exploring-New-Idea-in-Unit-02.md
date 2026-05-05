@@ -1,10 +1,8 @@
 +++
-date = '2026-03-18T16:41:14+05:30'
+date = '2026-03-18T22:33:47+05:30'
 draft = false
-title = 'Exploring New Ideas in Unit 2'
+title = 'Exploring New Idea in Unit 02'
 +++
-
-
 
 
 
