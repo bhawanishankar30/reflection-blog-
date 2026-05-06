@@ -1,18 +1,13 @@
-\---
-
++++
 title: "Data Visualization using Metabase"
-
-date: 2026-05-05
-
+date: 2026-05-06
 draft: false
++++
+Journey of learning in BRIS course,
 
-\---
+<!--more-->
 
-
-
-
-
-Journey of learning in BRIS course, unit 4 was based on Metabase. Use of metabase in data visualization makes it easy to understand the data of particular columns and rows. In this unit I learned  how to plot data of any dataset in different charts and  the use of filters and applied different visualization techniques such as bar chart, heatmap, scatter plot and tables.
+unit 4 was based on Metabase. Use of metabase in data visualization makes it easy to understand the data of particular columns and rows. In this unit I learned  how to plot data of any dataset in different charts and  the use of filters and applied different visualization techniques such as bar chart, heatmap, scatter plot and tables.
 
 
 
@@ -29,6 +24,4 @@ Overall this unit was not as difficult as I assumed at starting but it was very 
 It was a good learning skill that makes it easy to explore and explain the data to others.
 
 It improved my skill and gave me an idea of importance for data analysts.
-
-
 
