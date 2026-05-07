@@ -1,8 +1,12 @@
-+++
-date = '2026-05-05T20:10:55+05:30'
-draft = true
-title = 'Data Visualization using Metabase'
-+++
+\---
+
+title: "Data Visualization sing Metabase"
+
+date: 2026-05-07
+
+draft: false
+
+\---
 
 Journey of learning in BRIS course, unit 4 was based on Metabase. Use of metabase in data visualization makes it easy to understand the data of particular columns and rows. In this unit I learned  how to plot data of any dataset in different charts and  the use of filters and applied different visualization techniques such as bar chart, heatmap, scatter plot and tables.
 
@@ -10,9 +14,9 @@ Journey of learning in BRIS course, unit 4 was based on Metabase. Use of metabas
 
 At first glance,when I saw this project and its guidelines, I felt it would be harder than the rest of other projects. At starting it takes lots of time to understand how to use the metabase. After watching some youtube videos and just playing with metabase i was able to understand and plot the data on it.While working I faced some challenges like missing fields in the summarize section, sometimes data was not showing on heatmap and some visualization did not work,  then i searched on the internet and found its solution.
 
-&#x09;
+&#x09;		
 
-If I get a chance to work again on this project I will do it even if it takes a lot of time but for the  next time first I will understand the data properly and plan my dashboard and I will do my work well. It will be a little easy for me and also familiar.Some charts are like sankey, waterfall  were interesting and looked good.
+If I get a chance to work again on this project I will do it even if it takes a lot of time but for the  next time first I will understand the data properly and plan my dashboard and I will do my work well. It will be a little easy for me and also familiar.Some charts are like sankey, waterfall  were interesting and looked good. 
 
 
 
