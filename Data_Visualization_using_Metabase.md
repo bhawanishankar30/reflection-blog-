@@ -12,4 +12,3 @@ If I get a chance to work again on this project I will do it even if it takes a 
 Overall this unit was not as difficult as I assumed at starting but it was very interesting and this project helped me to explore new things and change the way of looking at data in so many different ways. Even though it was challenging at first, it became easy while working.
 It was a good learning skill that makes it easy to explore and explain the data to others.
 It improved my skill and gave me an idea of importance for data analysts.
-
