@@ -1,10 +1,12 @@
 +++
 
-title - "Data Visualization Using Metabase"
 
-date  - 2026-5-7
 
-draft - "false"
+title : "Data Visualization Using Metabase"
+
+date  : 2026-5-7
+
+draft : "false"
 
 +++
 
