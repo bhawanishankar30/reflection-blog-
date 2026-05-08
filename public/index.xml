@@ -6,8 +6,15 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Apr 2026 23:18:40 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 09:13:47 +0530</lastBuildDate>
     <atom:link href="https://bhawanishankar30.github.io/reflection-blog-/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data visualization using Metabase</title>
+      <link>https://bhawanishankar30.github.io/reflection-blog-/posts/the-metabase/</link>
+      <pubDate>Fri, 08 May 2026 09:13:47 +0530</pubDate>
+      <guid>https://bhawanishankar30.github.io/reflection-blog-/posts/the-metabase/</guid>
+      <description>&lt;p&gt;Journey of learning in BRIS course, unit 4 was based on Metabase. Use of metabase in data visualization makes it easy to understand the data of particular columns and rows. In this unit I learned  how to plot data of any dataset in different charts and  the use of filters and applied different visualization techniques such as bar chart, heatmap, scatter plot and tables.&lt;/p&gt;&#xA;&lt;p&gt;At first glance,when I saw this project and its guidelines, I felt it would be harder than the rest of other projects. At starting it takes lots of time to understand how to use the metabase. After watching some youtube videos and just playing with metabase i was able to understand and plot the data on it.While working I faced some challenges like missing fields in the summarize section, sometimes data was not showing on heatmap and some visualization did not work,  then i searched on the internet and found its solution.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>My BS Bot</title>
       <link>https://bhawanishankar30.github.io/reflection-blog-/posts/my-bs-bot/</link>
